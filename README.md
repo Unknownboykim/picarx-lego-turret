@@ -9,7 +9,7 @@ No tutorial existed for this. I figured it out myself.
 ---
 
 ## 📹 Demo Video
-*Coming soon — YouTube link here*
+[YouTube link here](https://www.youtube.com/watch?v=pMx2uCLGDFA)
 
 ---
 
@@ -108,7 +108,7 @@ The SunFounder app control and joystick servo control were separate files. Merge
 
 ## 📺 YouTube Channel
 
-**[Azirath](https://www.youtube.com/@Azirath)**
+**[Unidentifiedboy1](https://www.youtube.com/@Azirath)**
 
 Subscribe for more Raspberry Pi, robotics, and tech builds!
 
@@ -120,9 +120,8 @@ Subscribe for more Raspberry Pi, robotics, and tech builds!
 Computer Science and Business Administration
 Northeastern University — Class of 2027
 
-- 🎥 YouTube: [Azirath](https://www.youtube.com/@Azirath)
+- 🎥 YouTube: [Unidentifiedboy1](https://www.youtube.com/watch?v=pMx2uCLGDFA)
 - 💻 GitHub: [Unknownboykim](https://github.com/Unknownboykim)
-- 📧 Email: ryankwonkim@gmail.com
 
 ---
 
@@ -130,4 +129,4 @@ Northeastern University — Class of 2027
 
 # PiCar-X Lego Turret 🤖
 
-> 📺 **Watch the full build video on YouTube: [Azirath](https://www.youtube.com/@Azirath)**
+> 📺 **Watch the full build video on YouTube: [Unidentifiedboy1](https://www.youtube.com/watch?v=pMx2uCLGDFA))**
