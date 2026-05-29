@@ -77,7 +77,7 @@ No tutorial existed for this. I figured it out myself.
 The HAT has no pass-through GPIO header. Solution: female-to-female jumper wires directly from the HAT's labeled ADC, Digital, and PWM pin rows.
 
 **Problem 2 — Joystick analog input:**
-I wasted two days trying to wire an MCP3008 SPI chip before discovering the Robot HAT already has a built-in 12-bit ADC. The joystick connects directly to ADC pin A3 with one wire.
+I wasted few days trying to wire an MCP3008 SPI chip before discovering the Robot HAT already has a built-in 12-bit ADC. The joystick connects directly to ADC pin A3 with one wire.
 
 **Problem 3 — Joystick center offset:**
 The joystick resting position reads ~3976 out of 4113 instead of being centered at 2056. Fixed with a deadzone system in code.
