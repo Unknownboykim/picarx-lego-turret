@@ -103,3 +103,31 @@ The SunFounder app control and joystick servo control were separate files. Merge
 ## ▶️ How To Run
 
 **Full combined control (app + joystick + turret):**
+
+---
+
+## 📺 YouTube Channel
+
+**[Azirath](https://www.youtube.com/@Azirath)**
+
+Subscribe for more Raspberry Pi, robotics, and tech builds!
+
+---
+
+## 👤 Author
+
+**Ryan Kim** (Azirath)
+Computer Science and Business Administration
+Northeastern University — Class of 2027
+
+- 🎥 YouTube: [Azirath](https://www.youtube.com/@Azirath)
+- 💻 GitHub: [Unknownboykim](https://github.com/Unknownboykim)
+- 📧 Email: ryankwonkim@gmail.com
+
+---
+
+## ⭐ If this helped you build something cool, leave a star and subscribe to Azirath on YouTube!
+
+# PiCar-X Lego Turret 🤖
+
+> 📺 **Watch the full build video on YouTube: [Azirath](https://www.youtube.com/@Azirath)**
