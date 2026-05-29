@@ -108,7 +108,7 @@ The SunFounder app control and joystick servo control were separate files. Merge
 
 ## 📺 YouTube Channel
 
-**[Unidentifiedboy1](https://www.youtube.com/@Azirath)**
+**[Unidentifiedboy1](https://www.youtube.com/@unidentifiedboygaming1747)**
 
 Subscribe for more Raspberry Pi, robotics, and tech builds!
 
