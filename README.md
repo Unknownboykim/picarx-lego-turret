@@ -116,9 +116,9 @@ Subscribe for more Raspberry Pi, robotics, and tech builds!
 
 ## 👤 Author
 
-**Ryan Kim** (Azirath)
+**Ryan Kim** (Unidentifiedboy1)
 Computer Science and Business Administration
-Northeastern University — Class of 2027
+Northeastern University
 
 - 🎥 YouTube: [Unidentifiedboy1](https://www.youtube.com/watch?v=pMx2uCLGDFA)
 - 💻 GitHub: [Unknownboykim](https://github.com/Unknownboykim)
