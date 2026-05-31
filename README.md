@@ -125,7 +125,7 @@ Northeastern University
 
 ---
 
-## ⭐ If this helped you build something cool, leave a star and subscribe to Azirath on YouTube!
+## ⭐ If this helped you build something cool, leave a star and subscribe to Unidentifiedboy1 on YouTube!
 
 # PiCar-X Lego Turret 🤖
 
