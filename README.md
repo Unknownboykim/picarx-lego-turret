@@ -104,6 +104,9 @@ The SunFounder app control and joystick servo control were separate files. Merge
 
 **Full combined control (app + joystick + turret):**
 
+cd ~/picar-x/example
+sudo python3 combined_app.py
+
 ---
 
 ## 📺 YouTube Channel
